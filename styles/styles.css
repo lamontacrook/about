@@ -1175,7 +1175,7 @@
   /* colors */
   --link-color: #EEE7E1;
   --link-hover-color: #136ff6;
-  --background-color: #EEE7E1;
+  --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
   --text-color: #1A1919;
@@ -1272,7 +1272,7 @@ pre,
 blockquote {
   margin-top: 1em;
   margin-bottom: 1em;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.9em;
   font-weight: 400;
 }

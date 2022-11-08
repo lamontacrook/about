@@ -13,13 +13,14 @@ main .hero {
     padding: 32px;
     min-height: 300px;
     width: 100vw;
-    height: 100vh;
+    height: 40vh;
     /* position: absolute;
     object-fit: cover; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    object-fit: cover;
 }
 
 main .hero h1 {
